@@ -95,3 +95,7 @@ body {
     }
 }
 
+.open-icon:hover {
+    background-color:lightgrey;
+    border-radius: 50%;
+}
