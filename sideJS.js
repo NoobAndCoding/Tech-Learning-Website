@@ -9,6 +9,6 @@ function closeNav() {
 }
 
 function showContent(content) {
-    document.getElementById("contentTitle").textContent = content + " Page";
+    document.getElementById("contentTitle").textContent = content + " Page"
     closeNav()
 }
